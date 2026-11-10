@@ -1,2 +1,2 @@
 # Aether-
-A sleek dark-theme movie discovery app to search films, watch trailers, rate movies, and save a personal watchlist. Built with HTML, CSS, and Vanilla JavaScript using the TMDB API.
+AETHER – A modern weather dashboard built with HTML, CSS, and JavaScript. Provides real-time weather updates, hourly temperature trends, 5-day forecasts, location search, and live weather details using Open-Meteo and OpenWeatherMap APIs.
